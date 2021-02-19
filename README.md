@@ -4,4 +4,4 @@
 
 ### Спасибо!
 
-[Мой вк]{https://vk.com/bewels}
+[Мой вк](https://vk.com/bewels)
